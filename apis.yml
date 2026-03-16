@@ -1,0 +1,36 @@
+aid: apache-mina
+name: Apache MINA
+description: >-
+  Apache MINA is a network application framework that helps develop high-performance and high-scalability network applications. It provides an abstract event-driven asynchronous API over various transports such as TCP/IP and UDP/IP via Java NIO.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Networking
+  - NIO
+  - Java
+  - Async I/O
+  - Protocol Framework
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/apache-mina/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: apache-mina:apache-mina
+    name: Apache MINA
+    description: >-
+      MINA provides a Java NIO-based API for building network applications with support for TCP, UDP, and serial protocols, along with filter chain API for protocol codecs and the SSHD sub-project for SSH client/server implementation.
+    humanURL: https://mina.apache.org/mina-project/documentation.html
+    tags:
+      - Java
+      - NIO
+      - Networking
+      - SSH
+    properties:
+      - type: Documentation
+        url: https://mina.apache.org/mina-project/documentation.html
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
