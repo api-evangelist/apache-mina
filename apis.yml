@@ -7,10 +7,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Async I/O
+  - Java
   - Networking
   - NIO
-  - Java
-  - Async I/O
   - Protocol Framework
 created: '2026-03-16'
 modified: '2026-03-16'
@@ -25,8 +25,8 @@ apis:
     humanURL: https://mina.apache.org/mina-project/documentation.html
     tags:
       - Java
-      - NIO
       - Networking
+      - NIO
       - SSH
     properties:
       - type: Documentation
