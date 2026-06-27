@@ -35,7 +35,7 @@ apis:
         url: https://mina.apache.org/mina-project/documentation.html
       - type: GettingStarted
         url: https://mina.apache.org/mina-project/userguide/user-guide-toc.html
-      - type: SDK
+      - type: SDKs
         url: https://central.sonatype.com/artifact/org.apache.mina/mina-core
         title: Maven Central (Java)
       - type: GitHubRepository
@@ -54,7 +54,7 @@ apis:
     properties:
       - type: Documentation
         url: https://mina.apache.org/sshd-project/index.html
-      - type: SDK
+      - type: SDKs
         url: https://central.sonatype.com/artifact/org.apache.sshd/sshd-core
         title: Maven Central (Java)
       - type: GitHubRepository
@@ -71,7 +71,7 @@ apis:
     properties:
       - type: Documentation
         url: https://mina.apache.org/ftpserver-project/index.html
-      - type: SDK
+      - type: SDKs
         url: https://central.sonatype.com/artifact/org.apache.ftpserver/ftpserver-core
         title: Maven Central (Java)
       - type: GitHubRepository
