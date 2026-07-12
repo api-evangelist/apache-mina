@@ -77,6 +77,10 @@ apis:
       - type: GitHubRepository
         url: https://github.com/apache/mina
 common:
+  - type: VulnerabilityDisclosure
+    url: security/apache-mina-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/apache-mina-domain-security.yml
   - type: Portal
     url: https://mina.apache.org/
   - type: GitHubOrganization
