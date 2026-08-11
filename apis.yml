@@ -89,6 +89,11 @@ apis:
       - type: GitHubRepository
         url: https://github.com/apache/mina
 common:
+  - type: CodeOfConduct
+    url: https://github.com/apache/.github/blob/main/.github/CODE_OF_CONDUCT.md
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/apache/mina/blob/trunk/LICENSE
   - type: VulnerabilityDisclosure
     url: security/apache-mina-vulnerability-disclosure.yml
   - type: DomainSecurity
