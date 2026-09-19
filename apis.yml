@@ -92,6 +92,10 @@ apis:
     tags:
       - FTP
       - Java
+      - Servers
+    tags_raw:
+      - FTP
+      - Java
       - Server
     properties:
       - type: Documentation
