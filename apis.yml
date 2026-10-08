@@ -106,6 +106,12 @@ apis:
       - type: GitHubRepository
         url: https://github.com/apache/mina
 common:
+  - type: Plans
+    url: plans/apache-mina-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/apache-mina-rate-limits.yml
+  - type: FinOps
+    url: finops/apache-mina-finops.yml
   - type: Website
     url: https://www.apache.org/
   - type: CodeOfConduct
